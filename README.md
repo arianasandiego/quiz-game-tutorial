@@ -10,3 +10,11 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
   - Answers Container
   - Progress Bar
 - Result Screen
+
+2. CSS
+
+- Basic Reset
+- Screens
+  - Start Screen
+  - Result Screen
+- Responsive Design
