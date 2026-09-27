@@ -18,3 +18,14 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
   - Start Screen
   - Result Screen
 - Responsive Design
+
+3. JS
+
+- DOM Elements
+- Quiz State Vars
+- Functions
+  - Start Quiz
+  - Show Question
+  - Select Answer
+  - Show Results
+  - Restart Quiz
